@@ -1,3 +1,7 @@
-# title
+---
+  title: My first post
+  ---
 
-this it the first artile. hah
+  这里开始写正文。
+
+  # Hello
