@@ -1,7 +1,6 @@
 ---
-  title: My first post
-  ---
+title: My first post
+---
 
-  这里开始写正文。
-
-  # Hello
+# Hello
+This is the first artile.
